@@ -1,4 +1,4 @@
-## Welcome to Synapse Pages
+## Welcome to SYNAPES's Page
 
 Synapes (Thailand) Co., Ltd is now opening for 6 positions including Full stack developer, Front-end developer, UI & UX designer, Data engineer, and AI engineers. The position details are as follows:
 
