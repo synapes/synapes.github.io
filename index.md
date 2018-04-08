@@ -1,12 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome to Synapse Pages
 
-You can use the [editor on GitHub](https://github.com/synapes/synapes.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Synapes (Thailand) Co., Ltd is now opening for 6 positions including Full stack developer, Front-end developer, UI & UX designer, Data engineer, and AI engineers. The position details are as follows:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 1. Full Stack Developer (Python or Node.JS Back-End):  1 Position
+Qualifications:
+- Front-End Frameworks: Angular, React, Node.JS, JavaScript, JQuery, PHP, responsive CSS, bootstrap, html5
+- Back-End Frameworks: Prefer Python (Flask, Falcon, Gunicorn) or Node.JS
+- Server Platform: Unix Linux, AWS
+- Authentication: oAuth2, JWT
+- Services and APIs to web application & UNIX Shell Script.
+- RDMS: PostgreSQL, Oracle, NoSQL (MongoDB, Hadoop), SQLite, SQL Server, DB2 or MySQL
+- Understanding differences between multiple delivery platforms (such as mobile vs desktop), and optimizing output to match the specific platform
+- Good knowledge of mobile application development (native/hybrid) on iOS or Android would be advantage 
+- Good knowledge of Machine Learning, Deep Learning or Strong Mathematical background would be advantage.
+- Good communications skills; ability to work independently or in a team environment
+- Willing to learn and have a passion in software development
+- "Can Do" attitude plus positive thinking and creativity mind set
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
