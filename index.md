@@ -1,4 +1,3 @@
-![alt text](synapes.png)
 
 ## Welcome to SYNAPES's Recruitment Page
 
