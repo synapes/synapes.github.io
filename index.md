@@ -1,5 +1,5 @@
 
-![alt text](http://52.76.141.218/synapes.png
+![alt text](http://52.76.141.218/synapes.png)
 
 ## Welcome to SYNAPES's Recruitment Page
 
