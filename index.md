@@ -75,4 +75,4 @@ If you are interested, please send your CV at info@somsri.ai or call us 09185852
 
 SYNAPES (Thailand) Co., Ltd. was found in January 2017 based in Chiang Mai, Thailand with a vision of becoming an Asian leading organization in artificial intelligence (AI). SYNAPES is a research-based company focusing on artificial intelligence technologies for business support applications. Current AI technology development is in areas of cognitive computing ( named SOMSRi ), Thai natural language understanding ( NLU ) including business and visual intelligence technologies. We have plan to expand SOMSRi to various industries services, legal, family, financial and medical technologies.
 
-For more information, please visit our website: <a href ="http://somsri.ai/"></a>
+For more information, please visit our website: <a href="http://somsri.ai/">"http://somsri.ai/"</a>
