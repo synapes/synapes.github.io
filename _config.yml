@@ -1,7 +1,5 @@
 title: synapes
-logo: synapes.png
+logo: /synapes.png
 description: synapes
-show_downloads: true
-google_analytics:
 theme: jekyll-theme-minimal
 
