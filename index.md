@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/synapes/synapes.github.io/synapes.png)
+![alt text](synapes.png)
 
 ## Welcome to SYNAPES's Recruitment Page
 
