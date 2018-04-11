@@ -40,7 +40,7 @@ Qualifications:
 
 ### 4. Data Engineer: 1 Position
 Qualifications:
-- Knowledge of SQL database maintenance and Python, Node.JS or Java
+- Knowledge of SQL database maintenance and R, Python, Node.JS or Java
 - Have worked with one of the following: MySQL, MongoDB, Hadoop & Hive, Apache Spark, or related technology
 - Server Platform: Unix Linux, AWS
 - Experience with ETL techniques that enable data ingestion, data blending, and data integration
@@ -53,7 +53,7 @@ Qualifications:
 
 ### 5. AI Engineer: 2 Positions
 Qualifications:
-- AI Frameworks: Tensorflow, Keras, Caffe or others
+- AI Frameworks: Tensorflow, Keras, Caffe, R, Visualization or others
 - CV Frameworks: OpenCV
 - Good knowledge of Machine Learning, Deep Learning or Strong Mathematical background would be advantage.
 - If able to build ML, ANN or DL from scratch would be very advantage
