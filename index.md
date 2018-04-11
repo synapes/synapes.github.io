@@ -53,7 +53,7 @@ Qualifications:
 
 ### 5. AI Engineer: 2 Positions
 Qualifications:
-- AI Frameworks: Tensorflow, Keras, Caffe, R, Visualization or others
+- AI Frameworks: Tensorflow, Keras, Caffe, Python, R, Visualization or others
 - CV Frameworks: OpenCV
 - Good knowledge of Machine Learning, Deep Learning or Strong Mathematical background would be advantage.
 - If able to build ML, ANN or DL from scratch would be very advantage
